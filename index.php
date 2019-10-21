@@ -13,6 +13,10 @@
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, iste obcaecati! Ullam beatae a, veritatis harum
         veniam laudantium exercitationem, possimus dolorum modi ipsum laboriosam, asperiores suscipit earum fuga quis
         nulla.</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 
 </html>
